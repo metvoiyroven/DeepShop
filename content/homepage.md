@@ -1,4 +1,4 @@
 ---
 site_title: Главная страница
-site_subtitle: "4321"
+site_subtitle: Главная страница сайта
 ---
